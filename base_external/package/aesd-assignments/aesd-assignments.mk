@@ -1,3 +1,17 @@
+culinux/assignment-4-Chizxsy/assignment-autotest/test/assignment4-buildroot
+Test of assignment assignment4-buildroot complete with success
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ ^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ 
+
 
 ##############################################################
 #
@@ -6,6 +20,20 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
+culinux/assignment-4-Chizxsy/assignment-autotest/test/assignment4-buildroot
+Test of assignment assignment4-buildroot complete with success
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ -----BEGIN OPENSSH PRIVATE KEY-----^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ ^C
+charlie-fischer@charlie-fischer-Aspire-E1-472P:~/culinux/assignment-4-Chizxsy$ 
+
 AESD_ASSIGNMENTS_VERSION = c455ffa3fa374fccc0267eaa837d0a3fdd946006
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
